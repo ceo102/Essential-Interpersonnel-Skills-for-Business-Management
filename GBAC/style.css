@@ -1,0 +1,17 @@
+.image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Adjust the height as needed */
+}
+
+.centered-image {
+    max-width: 100%;
+    height: auto;
+}
+
+.icon {
+    margin: 20px; /* Adjust the margin as needed */
+    padding: 10px; /* Adjust the padding as needed */
+    display: inline-block; /* Ensure the element respects margin and padding */
+}
