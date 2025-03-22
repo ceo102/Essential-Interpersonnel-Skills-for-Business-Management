@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Essential Interpersonnel Skills for Business Management,Essential</title>
     <meta name="description" content="Essential Interpersonnel Skills for Business Management,Essential">
     <link rel="stylesheet" href="style">
     <link rel="icon" href="images/x-icon.png">
