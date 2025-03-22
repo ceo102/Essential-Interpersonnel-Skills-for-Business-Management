@@ -11,7 +11,7 @@
 </head>
 <body>
    
-        <img src="https://github.com/ceo102/Essential-Interpersonnel-Skills-for-Business-Management/blob/main/GBAC/Screenshot%202025-02-25%20001634.png" alt="Essential Interpersonnel Skills for Business Management, Essential" style="margin-left: 5%; margin-right: 5%;" width="90%" height="90%">
+        <img src="essential-interpersonal-skills-for-business-management.png" alt="Essential Interpersonnel Skills for Business Management, Essential" style="margin-left: 5%; margin-right: 5%;" width="90%" height="90%">
    
 <br>
 <br>
